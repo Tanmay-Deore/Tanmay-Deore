@@ -75,7 +75,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://<p align="center">   <img width="100%"     src="https://raw.githubusercontent.com/Tanmay-Deore/Tanmay-Deore/output/activity-graph.svg"     alt="Contribution Activity Graph"> </p>/graph?username=Tanmay-Deore&bg_color=FAF6EE&color=6B5E50&line=9A7653&point=2E2822&area=true&area_color=E6DAC6&hide_border=true" alt="Contribution activity graph">
+  <img width="100%" src="https://<p align="center">   <img width="100%"     src="https://raw.githubusercontent.com/Tanmay-Deore/Tanmay-Deore/output/activity-graph.svg"     alt="Contribution Activity Graph"> </p>
 </p>
 
 <!-- Contribution Snake -->
