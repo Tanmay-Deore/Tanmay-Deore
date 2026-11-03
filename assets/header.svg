@@ -29,7 +29,7 @@
 
 <!-- copy -->
 <text x="52" y="78" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" letter-spacing="2" fill="#9A7653" opacity="0">hello, world. i'm<animate attributeName="opacity" values="0;1" dur=".9s" begin=".1s" fill="freeze"/></text>
-<text x="46" y="160" font-family="Georgia, 'Times New Roman', 'Noto Serif', serif" font-size="68" font-weight="700" letter-spacing="-1" fill="#2E2822" clip-path="url(#nameclip)">Your Name</text>
+<text x="46" y="160" font-family="Georgia, 'Times New Roman', 'Noto Serif', serif" font-size="68" font-weight="700" letter-spacing="-1" fill="#2E2822" clip-path="url(#nameclip)">Tanmay Deore</text>
 <g clip-path="url(#barclip)">
   <rect x="48" y="190" width="470" height="4" fill="#CBB594" opacity=".55"/>
   <rect x="48" y="190" width="96" height="4" fill="#9A7653"/>
