@@ -37,11 +37,11 @@
 <br>
 
 <p align="center">
-  <img src="assets/h-roadmap.svg" width="100%" alt="Roadmap">
+  <img src="assets/h-### 🚀 My Learning Roadmap  | Status | Technology | |:---:|---| | 🟡 In Progress | HTML | | 🟡 In Progress | CSS | | 🟡 In Progress | Python | | ⚪ Up Next | JavaScript | | ⚪ Up Next | Git & GitHub | | ⚪ Planned | React.js | | ⚪ Planned | Node.js | | ⚪ Planned | Databases |.svg" width="100%" alt="### 🚀 My Learning Roadmap  | Status | Technology | |:---:|---| | 🟡 In Progress | HTML | | 🟡 In Progress | CSS | | 🟡 In Progress | Python | | ⚪ Up Next | JavaScript | | ⚪ Up Next | Git & GitHub | | ⚪ Planned | React.js | | ⚪ Planned | Node.js | | ⚪ Planned | Databases |">
 </p>
 
 <p align="center">
-  <img src="assets/roadmap.svg" width="100%" alt="My developer roadmap">
+  <img src="assets/### 🚀 My Learning Roadmap  | Status | Technology | |:---:|---| | 🟡 In Progress | HTML | | 🟡 In Progress | CSS | | 🟡 In Progress | Python | | ⚪ Up Next | JavaScript | | ⚪ Up Next | Git & GitHub | | ⚪ Planned | React.js | | ⚪ Planned | Node.js | | ⚪ Planned | Databases |.svg" width="100%" alt="My developer ### 🚀 My Learning Roadmap  | Status | Technology | |:---:|---| | 🟡 In Progress | HTML | | 🟡 In Progress | CSS | | 🟡 In Progress | Python | | ⚪ Up Next | JavaScript | | ⚪ Up Next | Git & GitHub | | ⚪ Planned | React.js | | ⚪ Planned | Node.js | | ⚪ Planned | Databases |">
 </p>
 
 <br>
