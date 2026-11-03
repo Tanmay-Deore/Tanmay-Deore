@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hey, I'm YOUR_NAME 👋
+# Hey, I'm Tanmay_Dore 👋
 
 ### Aspiring Full-Stack Developer
 
