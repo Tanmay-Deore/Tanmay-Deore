@@ -83,3 +83,8 @@
       width="100%" alt="Contribution Snake" />
   </picture>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tanmay-Deore/Tanmay-Deore/output/snake.svg"
+       width="100%" alt="Contribution Snake" />
+</p>
