@@ -1,0 +1,28 @@
+HOW TO USE THIS KIT
+===================
+
+1. Create a PUBLIC repo named exactly like your GitHub username (tick "Add a README").
+2. Upload everything from this folder into it, keeping the structure:
+      README.md
+      assets/            (all the .svg files)
+      .github/workflows/snake.yml
+   Tip: on GitHub choose Add file > Upload files and drag the folders in. If the
+   .github folder is skipped, create the file by hand: Add file > Create new file,
+   type  .github/workflows/snake.yml  as the name and paste the contents.
+3. Open the folder in VS Code and use Replace in Files (Ctrl+Shift+H) for:
+      YOUR_USERNAME      -> your GitHub username
+      YOUR_LINKEDIN_URL  -> your LinkedIn link
+      YOUR_EMAIL         -> your email address
+      Your Name          -> your name   (appears in assets/header.svg and assets/about-card.svg)
+   Keep the name to about 18 characters or the header text will run into the orbit graphic.
+4. Repo > Actions > "Generate contribution snake" > Run workflow (once). It creates an "output"
+   branch holding the snake images; the profile picks them up automatically.
+5. Real project repos: rename/point the three project cards in README.md at your repos
+   (portfolio, task-manager, luma) as you create them.
+
+NOTES
+- The animated cards are plain SVG files, so they work on GitHub without any plug-in.
+- The stats widgets come from public services (github-readme-stats, streak-stats, activity graph).
+  They are empty for a brand-new account and occasionally rate-limited; they fill in as you commit.
+- To change the palette, find/replace these hex codes across assets/*.svg:
+  #FAF6EE paper, #E6DAC6 sand, #CBB594 tan, #9A7653 brown, #2E2822 ink.

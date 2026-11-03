@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 230" width="320" height="230" role="img" aria-label="Project 3: LUMA">
+<defs></defs>
+
+<rect x=".5" y=".5" width="319" height="229" rx="22" fill="#FAF6EE" stroke="#E0D3BE"/>
+<text x="296" y="92" text-anchor="end" font-family="Georgia, 'Times New Roman', 'Noto Serif', serif" font-size="76" font-weight="700" fill="#E6DAC6">03<animate attributeName="opacity" values=".55;1;.55" dur="5s" repeatCount="indefinite"/></text>
+<rect x="28" y="28" width="95" height="24" rx="12" fill="none" stroke="#CBB594"/>
+<circle cx="43" cy="40" r="3.5" fill="#CBB594"></circle>
+<text x="54" y="44.5" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="700" letter-spacing="2" fill="#6B5E50">PLANNED</text>
+<text x="28" y="116" font-family="Georgia, 'Times New Roman', 'Noto Serif', serif" font-size="27" font-weight="700" fill="#2E2822">LUMA</text>
+<rect x="28" y="128" width="36" height="3" rx="1.5" fill="#9A7653"><animate attributeName="width" values="36;120;36" keyTimes="0;.5;1" calcMode="spline" keySplines=".4 0 .2 1;.4 0 .2 1" dur="4.5s" repeatCount="indefinite"/></rect>
+<text x="28" y="154" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#6B5E50">Accessibility-first app: voice forms, hands-</text>
+<text x="28" y="173" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#6B5E50">free access, sign interpreter, narrator.</text>
+<rect x="28" y="184" width="57" height="24" rx="12" fill="#E6DAC6"/><text x="56" y="200" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" fill="#2E2822" textLength="35.0">React</text><rect x="93.0" y="184" width="50" height="24" rx="12" fill="#E6DAC6"/><text x="118" y="200" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" fill="#2E2822" textLength="28.0">Node</text><rect x="151.0" y="184" width="36" height="24" rx="12" fill="#E6DAC6"/><text x="169" y="200" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" fill="#2E2822" textLength="14.0">AI</text>
+<text x="294" y="202" text-anchor="end" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="18" fill="#9A7653">↗<animateTransform attributeName="transform" type="translate" values="0 0;2 -2;0 0" dur="2.4s" repeatCount="indefinite"/></text>
+
+</svg>
