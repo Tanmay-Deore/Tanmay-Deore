@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Your Name, aspiring full-stack developer">
+  <img src="assets/header.svg" width="100%" alt="Tanmay Deore, aspiring full-stack developer">
 </p>
 
 <p align="center">
@@ -64,9 +64,7 @@
 <p align="center">
   <a href="https://github.com/Tanmau_Deore"><img src="https://img.shields.io/badge/GitHub-2E2822?style=for-the-badge&logo=github&logoColor=F4EDE1" alt="GitHub"></a>
   <a href="www.linkedin.com/in/tanmay-deore-309029408"><img src="https://img.shields.io/badge/LinkedIn-9A7653?style=for-the-badge&logo=linkedin&logoColor=F4EDE1" alt="LinkedIn"></a>
-  <a href="mailto:www.linkedin.com/in/
-tanmay-deore-309029408
-"><img src="https://img.shields.io/badge/Email-CBB594?style=for-the-badge&logo=gmail&logoColor=2E2822" alt="Email"></a>
+  <a href="mailto:tanmaydeore614@gmail.com"><img src="https://img.shields.io/badge/Email-CBB594?style=for-the-badge&logo=gmail&logoColor=2E2822" alt="Email"></a>
 </p>
 
 <p align="center"><img src="assets/footer.svg" width="100%" alt="Thanks for stopping by"></p>
