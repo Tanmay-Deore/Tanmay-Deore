@@ -1,20 +1,33 @@
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Tanmay-Deore/Tanmay-Deore/output/snake-dark.svg"
-    />
+name: Generate contribution snake
 
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Tanmay-Deore/Tanmay-Deore/output/snake.svg"
-    />
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/Tanmay-Deore/Tanmay-Deore/output/snake.svg"
-      width="100%"
-    />
-  </picture>
-</p>
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Publish snake to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
