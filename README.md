@@ -37,106 +37,91 @@
 <br>
 
 
-<!-- MY LEARNING ROADMAP -->
+<!-- MY DEVELOPER ROADMAP -->
 
-<h2 align="center">✦ THE LEARNING JOURNEY ✦</h2>
-
-<p align="center">
-  <sub>BUILD &nbsp; • &nbsp; EXPLORE &nbsp; • &nbsp; CREATE</sub>
-</p>
+<h2 align="center">✦ MY DEVELOPER JOURNEY ✦</h2>
 
 <p align="center">
-  <i>A roadmap of skills I'm building, one step at a time.</i>
+  <i>Learn. Build. Experiment. Repeat.</i>
 </p>
 
-<table width="100%">
-  <tr>
-    <td align="center" width="33%" bgcolor="#FAF6EE">
-      <br>
-      <sub><b>01 / CURRENT PHASE</b></sub>
-      <h3>FOUNDATIONS</h3>
-      <img src="https://img.shields.io/badge/LEARNING-IN%20PROGRESS-CBB594?style=flat-square&labelColor=2E2822">
-      <br><br>
-      <img src="https://img.shields.io/badge/HTML5-2E2822?style=for-the-badge&logo=html5&logoColor=E6DAC6">
-      <br><br>
-      <img src="https://img.shields.io/badge/CSS3-2E2822?style=for-the-badge&logo=css3&logoColor=E6DAC6">
-      <br><br>
-      <img src="https://img.shields.io/badge/Python-2E2822?style=for-the-badge&logo=python&logoColor=E6DAC6">
-      <br><br>
-      <sub>Building strong fundamentals.</sub>
-      <br>
-      <br>
+<table width="100%" cellpadding="12">
+<tr>
+<td width="33%" align="center" valign="top" bgcolor="#FAF6EE">
 
-<!-- MY LEARNING ROADMAP -->
+<sub>01 / CURRENT PHASE</sub>
+<h3>FOUNDATIONS</h3>
+<img src="https://img.shields.io/badge/IN_PROGRESS-CBB594?style=for-the-badge&labelColor=2E2822">
 
-<h2 align="center">✦ THE LEARNING JOURNEY ✦</h2>
+<br><br>
+<img src="https://skillicons.dev/icons?i=html" width="32" alt="HTML">
+<br><b>HTML</b>
 
-<p align="center">
-  <sub>BUILD &nbsp; • &nbsp; EXPLORE &nbsp; • &nbsp; CREATE</sub>
-</p>
+<br><br>
+<img src="https://skillicons.dev/icons?i=css" width="32" alt="CSS">
+<br><b>CSS</b>
 
-<p align="center">
-  <i>A roadmap of skills I'm building, one step at a time.</i>
-</p>
+<br><br>
+<img src="https://skillicons.dev/icons?i=python" width="32" alt="Python">
+<br><b>Python</b>
 
-<table width="100%">
-  <tr>
-    <td align="center" width="33%" bgcolor="#FAF6EE">
-      <br>
-      <sub><b>01 / CURRENT PHASE</b></sub>
-      <h3>FOUNDATIONS</h3>
-      <img src="https://img.shields.io/badge/LEARNING-IN%20PROGRESS-CBB594?style=flat-square&labelColor=2E2822">
-      <br><br>
-      <img src="https://img.shields.io/badge/HTML5-2E2822?style=for-the-badge&logo=html5&logoColor=E6DAC6">
-      <br><br>
-      <img src="https://img.shields.io/badge/CSS3-2E2822?style=for-the-badge&logo=css3&logoColor=E6DAC6">
-      <br><br>
-      <img src="https://img.shields.io/badge/Python-2E2822?style=for-the-badge&logo=python&logoColor=E6DAC6">
-      <br><br>
-      <sub>Building strong fundamentals.</sub>
-      <br><br>
-    </td>
+<br><br>
+<sub>Building my fundamentals</sub>
 
-    <td align="center" width="33%" bgcolor="#E6DAC6">
-      <br>
-      <sub><b>02 / NEXT PHASE</b></sub>
-      <h3>DEVELOPMENT</h3>
-      <img src="https://img.shields.io/badge/UP%20NEXT-EXPLORING-9A7653?style=flat-square&labelColor=2E2822">
-      <br><br>
-      <img src="https://img.shields.io/badge/JavaScript-2E2822?style=for-the-badge&logo=javascript&logoColor=E6DAC6">
-      <br><br>
-      <img src="https://img.shields.io/badge/Git-2E2822?style=for-the-badge&logo=git&logoColor=E6DAC6">
-      <br><br>
-      <img src="https://img.shields.io/badge/GitHub-2E2822?style=for-the-badge&logo=github&logoColor=E6DAC6">
-      <br><br>
-      <sub>Turning ideas into code.</sub>
-      <br><br>
-    </td>
+</td>
 
-    <td align="center" width="33%" bgcolor="#FAF6EE">
-      <br>
-      <sub><b>03 / FUTURE PHASE</b></sub>
-      <h3>FULL STACK</h3>
-      <img src="https://img.shields.io/badge/PLANNED-ON%20THE%20HORIZON-CBB594?style=flat-square&labelColor=2E2822">
-      <br><br>
-      <img src="https://img.shields.io/badge/React-2E2822?style=for-the-badge&logo=react&logoColor=E6DAC6">
-      <br><br>
-      <img src="https://img.shields.io/badge/Node.js-2E2822?style=for-the-badge&logo=nodedotjs&logoColor=E6DAC6">
-      <br><br>
-      <img src="https://img.shields.io/badge/Databases-2E2822?style=for-the-badge&logo=postgresql&logoColor=E6DAC6">
-      <br><br>
-      <sub>Creating complete applications.</sub>
-      <br><br>
-    </td>
-  </tr>
+<td width="33%" align="center" valign="top" bgcolor="#E6DAC6">
+
+<sub>02 / NEXT PHASE</sub>
+<h3>DEVELOPMENT</h3>
+<img src="https://img.shields.io/badge/UP_NEXT-E6DAC6?style=for-the-badge&labelColor=2E2822">
+
+<br><br>
+<img src="https://skillicons.dev/icons?i=js" width="32" alt="JavaScript">
+<br><b>JavaScript</b>
+
+<br><br>
+<img src="https://skillicons.dev/icons?i=git" width="32" alt="Git">
+<br><b>Git</b>
+
+<br><br>
+<img src="https://skillicons.dev/icons?i=github" width="32" alt="GitHub">
+<br><b>GitHub</b>
+
+<br><br>
+<sub>Learning to build better</sub>
+
+</td>
+
+<td width="33%" align="center" valign="top" bgcolor="#FAF6EE">
+
+<sub>03 / FUTURE PHASE</sub>
+<h3>FULL STACK</h3>
+<img src="https://img.shields.io/badge/PLANNED-CBB594?style=for-the-badge&labelColor=2E2822">
+
+<br><br>
+<img src="https://skillicons.dev/icons?i=react" width="32" alt="React">
+<br><b>React</b>
+
+<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs" width="32" alt="Node.js">
+<br><b>Node.js</b>
+
+<br><br>
+<img src="https://skillicons.dev/icons?i=postgres" width="32" alt="Databases">
+<br><b>Databases</b>
+
+<br><br>
+<sub>Creating real-world apps</sub>
+
+</td>
+</tr>
 </table>
 
 <p align="center">
-  <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
+  <b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b>
   <br>
-  <b>CONSISTENCY OVER PERFECTION.</b>
-  <br>
-  <sub>Every expert was once a beginner.</sub>
+  <i>Consistency over perfection.</i>
 </p>
 
   
