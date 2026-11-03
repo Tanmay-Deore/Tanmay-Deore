@@ -36,13 +36,30 @@
 
 <br>
 
-<p align="center">
-  <img src="assets/h-### 🚀  <h3>🚀 My Learning Roadmap</h3>  **Currently Learning**  <p>   <img src="https://img.shields.io/badge/HTML-In%20Progress-CBB594?style=for-the-badge&labelColor=2E2822">   <img src="https://img.shields.io/badge/CSS-In%20Progress-CBB594?style=for-the-badge&labelColor=2E2822">   <img src="https://img.shields.io/badge/Python-In%20Progress-CBB594?style=for-the-badge&labelColor=2E2822"> </p>  **Up Next**  <p>   <img src="https://img.shields.io/badge/JavaScript-Up%20Next-E6DAC6?style=for-the-badge&labelColor=2E2822">   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Up%20Next-E6DAC6?style=for-the-badge&labelColor=2E2822"> </p>  **Future Goals**  <p>   <img src="https://img.shields.io/badge/React.js-Planned-FAF6EE?style=for-the-badge&labelColor=9A7653">   <img src="https://img.shields.io/badge/Node.js-Planned-FAF6EE?style=for-the-badge&labelColor=9A7653">   <img src="https://img.shields.io/badge/Databases-Planned-FAF6EE?style=for-the-badge&labelColor=9A7653"> </p>  | Status | Technology | |:---:|---| | 🟡 In Progress | HTML | | 🟡 In Progress | CSS | | 🟡 In Progress | Python | | ⚪ Up Next | JavaScript | | ⚪ Up Next | Git & GitHub | | ⚪ Planned | React.js | | ⚪ Planned | Node.js | | ⚪ Planned | Databases |.svg" width="100%" alt="### 🚀  <h3>🚀 My Learning Roadmap</h3>  **Currently Learning**  <p>   <img src="https://img.shields.io/badge/HTML-In%20Progress-CBB594?style=for-the-badge&labelColor=2E2822">   <img src="https://img.shields.io/badge/CSS-In%20Progress-CBB594?style=for-the-badge&labelColor=2E2822">   <img src="https://img.shields.io/badge/Python-In%20Progress-CBB594?style=for-the-badge&labelColor=2E2822"> </p>  **Up Next**  <p>   <img src="https://img.shields.io/badge/JavaScript-Up%20Next-E6DAC6?style=for-the-badge&labelColor=2E2822">   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Up%20Next-E6DAC6?style=for-the-badge&labelColor=2E2822"> </p>  **Future Goals**  <p>   <img src="https://img.shields.io/badge/React.js-Planned-FAF6EE?style=for-the-badge&labelColor=9A7653">   <img src="https://img.shields.io/badge/Node.js-Planned-FAF6EE?style=for-the-badge&labelColor=9A7653">   <img src="https://img.shields.io/badge/Databases-Planned-FAF6EE?style=for-the-badge&labelColor=9A7653"> </p>  | Status | Technology | |:---:|---| | 🟡 In Progress | HTML | | 🟡 In Progress | CSS | | 🟡 In Progress | Python | | ⚪ Up Next | JavaScript | | ⚪ Up Next | Git & GitHub | | ⚪ Planned | React.js | | ⚪ Planned | Node.js | | ⚪ Planned | Databases |">
-</p>
+<h2 align="center">🚀 MY LEARNING ROADMAP</h2>
+<p align="center"><i>Building my skills, one step at a time.</i></p>
 
-<p align="center">
-  <img src="assets/### 🚀  <h3>🚀 My Learning Roadmap</h3>  **Currently Learning**  <p>   <img src="https://img.shields.io/badge/HTML-In%20Progress-CBB594?style=for-the-badge&labelColor=2E2822">   <img src="https://img.shields.io/badge/CSS-In%20Progress-CBB594?style=for-the-badge&labelColor=2E2822">   <img src="https://img.shields.io/badge/Python-In%20Progress-CBB594?style=for-the-badge&labelColor=2E2822"> </p>  **Up Next**  <p>   <img src="https://img.shields.io/badge/JavaScript-Up%20Next-E6DAC6?style=for-the-badge&labelColor=2E2822">   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Up%20Next-E6DAC6?style=for-the-badge&labelColor=2E2822"> </p>  **Future Goals**  <p>   <img src="https://img.shields.io/badge/React.js-Planned-FAF6EE?style=for-the-badge&labelColor=9A7653">   <img src="https://img.shields.io/badge/Node.js-Planned-FAF6EE?style=for-the-badge&labelColor=9A7653">   <img src="https://img.shields.io/badge/Databases-Planned-FAF6EE?style=for-the-badge&labelColor=9A7653"> </p>  | Status | Technology | |:---:|---| | 🟡 In Progress | HTML | | 🟡 In Progress | CSS | | 🟡 In Progress | Python | | ⚪ Up Next | JavaScript | | ⚪ Up Next | Git & GitHub | | ⚪ Planned | React.js | | ⚪ Planned | Node.js | | ⚪ Planned | Databases |.svg" width="100%" alt="My developer ### 🚀  <h3>🚀 My Learning Roadmap</h3>  **Currently Learning**  <p>   <img src="https://img.shields.io/badge/HTML-In%20Progress-CBB594?style=for-the-badge&labelColor=2E2822">   <img src="https://img.shields.io/badge/CSS-In%20Progress-CBB594?style=for-the-badge&labelColor=2E2822">   <img src="https://img.shields.io/badge/Python-In%20Progress-CBB594?style=for-the-badge&labelColor=2E2822"> </p>  **Up Next**  <p>   <img src="https://img.shields.io/badge/JavaScript-Up%20Next-E6DAC6?style=for-the-badge&labelColor=2E2822">   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Up%20Next-E6DAC6?style=for-the-badge&labelColor=2E2822"> </p>  **Future Goals**  <p>   <img src="https://img.shields.io/badge/React.js-Planned-FAF6EE?style=for-the-badge&labelColor=9A7653">   <img src="https://img.shields.io/badge/Node.js-Planned-FAF6EE?style=for-the-badge&labelColor=9A7653">   <img src="https://img.shields.io/badge/Databases-Planned-FAF6EE?style=for-the-badge&labelColor=9A7653"> </p>  | Status | Technology | |:---:|---| | 🟡 In Progress | HTML | | 🟡 In Progress | CSS | | 🟡 In Progress | Python | | ⚪ Up Next | JavaScript | | ⚪ Up Next | Git & GitHub | | ⚪ Planned | React.js | | ⚪ Planned | Node.js | | ⚪ Planned | Databases |">
-</p>
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <br><b>01 · CURRENTLY LEARNING</b><br><br>
+      <img src="https://img.shields.io/badge/HTML-CBB594?style=for-the-badge&labelColor=2E2822"><br><br>
+      <img src="https://img.shields.io/badge/CSS-CBB594?style=for-the-badge&labelColor=2E2822"><br><br>
+      <img src="https://img.shields.io/badge/Python-CBB594?style=for-the-badge&labelColor=2E2822"><br><br>
+    </td>
+    <td align="center" width="33%">
+      <br><b>02 · UP NEXT</b><br><br>
+      <img src="https://img.shields.io/badge/JavaScript-E6DAC6?style=for-the-badge&labelColor=2E2822"><br><br>
+      <img src="https://img.shields.io/badge/Git%20%26%20GitHub-E6DAC6?style=for-the-badge&labelColor=2E2822"><br><br>
+    </td>
+    <td align="center" width="33%">
+      <br><b>03 · FUTURE GOALS</b><br><br>
+      <img src="https://img.shields.io/badge/React.js-9A7653?style=for-the-badge&labelColor=2E2822"><br><br>
+      <img src="https://img.shields.io/badge/Node.js-9A7653?style=for-the-badge&labelColor=2E2822"><br><br>
+      <img src="https://img.shields.io/badge/Databases-9A7653?style=for-the-badge&labelColor=2E2822"><br><br>
+    </td>
+  </tr>
+</table>
 
 <br>
 
