@@ -68,3 +68,7 @@
 </p>
 
 <p align="center"><img src="assets/footer.svg" width="100%" alt="Thanks for stopping by"></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tanmay-Deore/Tanmay-Deore/output/github-snake-dark.svg" width="100%" />
+</p>
