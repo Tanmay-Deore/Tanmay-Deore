@@ -64,6 +64,36 @@
       <img src="https://img.shields.io/badge/Python-2E2822?style=for-the-badge&logo=python&logoColor=E6DAC6">
       <br><br>
       <sub>Building strong fundamentals.</sub>
+      <br>
+      <br>
+
+<!-- MY LEARNING ROADMAP -->
+
+<h2 align="center">✦ THE LEARNING JOURNEY ✦</h2>
+
+<p align="center">
+  <sub>BUILD &nbsp; • &nbsp; EXPLORE &nbsp; • &nbsp; CREATE</sub>
+</p>
+
+<p align="center">
+  <i>A roadmap of skills I'm building, one step at a time.</i>
+</p>
+
+<table width="100%">
+  <tr>
+    <td align="center" width="33%" bgcolor="#FAF6EE">
+      <br>
+      <sub><b>01 / CURRENT PHASE</b></sub>
+      <h3>FOUNDATIONS</h3>
+      <img src="https://img.shields.io/badge/LEARNING-IN%20PROGRESS-CBB594?style=flat-square&labelColor=2E2822">
+      <br><br>
+      <img src="https://img.shields.io/badge/HTML5-2E2822?style=for-the-badge&logo=html5&logoColor=E6DAC6">
+      <br><br>
+      <img src="https://img.shields.io/badge/CSS3-2E2822?style=for-the-badge&logo=css3&logoColor=E6DAC6">
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-2E2822?style=for-the-badge&logo=python&logoColor=E6DAC6">
+      <br><br>
+      <sub>Building strong fundamentals.</sub>
       <br><br>
     </td>
 
@@ -109,7 +139,7 @@
   <sub>Every expert was once a beginner.</sub>
 </p>
 
-
+  
 <br>
 
 <p align="center">
