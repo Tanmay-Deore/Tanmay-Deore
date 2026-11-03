@@ -1,5 +1,5 @@
 
-name: Generate contribution snake
+name: Generate Profile Graphics
 
 on:
   schedule:
@@ -17,15 +17,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Tanmay-Deore
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-      - name: Publish snake to output branch
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: Tanmay-Deore
+          options: bg_color=FAF6EE&color=6B5E50&line=9A7653&point=2E2822&area=true&area_color=E6DAC6&hide_border=true
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish graphics
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
