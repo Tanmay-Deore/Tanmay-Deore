@@ -26,7 +26,7 @@
 <h2 align="center">◈ ABOUT ME</h2>
 
 <p align="center">
-  Hey! I'm <b>YOUR_NAME</b> 👋<br/>
+  Hey! I'm <b>Tanmay_Deore</b> 👋<br/>
   A first-year college student passionate about technology,
   creative problem-solving and building things for the web.
 </p>
