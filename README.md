@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tanmay-Deore&show_icons=true&hide_border=false&border_radius=20&bg_color=FAF6EE&border_color=E0D3BE&title_color=2E2822&text_color=6B5E50&icon_color=9A7653&ring_color=9A7653&rank_icon=github" alt="GitHub stats">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Tanmay-Deore&show_icons=true&hide_border=false&border_radius=20&bg_color=FAF6EE&border_color=E0D3BE&title_color=2E2822&text_color=6B5E50&icon_color=9A7653&ring_color=9A7653&rank_icon=github" alt="GitHub stats">
 
   <img height="170" src="https://streak-stats.demolab.com?user=Tanmay-Deore&border_radius=20&background=FAF6EE&stroke=E0D3BE&ring=9A7653&fire=9A7653&currStreakNum=2E2822&sideNums=2E2822&currStreakLabel=9A7653&sideLabels=6B5E50&dates=A89A87" alt="Contribution streak">
 </p>
