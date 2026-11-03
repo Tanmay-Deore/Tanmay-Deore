@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Tanmay Deore, aspiring full-stack developer">
+  <img src="assets/header.svg" width="100%" alt="Tanmay_Deore, aspiring full-stack developer">
 </p>
 
 <p align="center">
