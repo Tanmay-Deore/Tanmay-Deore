@@ -88,19 +88,3 @@
   <img src="https://raw.githubusercontent.com/Tanmay-Deore/Tanmay-Deore/output/snake.svg"
        width="100%" alt="Contribution Snake" />
 </p>
-
-body {
-  background: #0b0f14;
-  color: #ffffff;
-  font-family: Arial, sans-serif;
-}
-
-.glass-card {
-  background: rgba(255, 255, 255, 0.07);
-  backdrop-filter: blur(16px);
-  -webkit-backdrop-filter: blur(16px);
-  border: 1px solid rgba(255, 255, 255, 0.12);
-  border-radius: 20px;
-  padding: 25px;
-  box-shadow: 0 8px 32px rgba(0,0,0,0.25);
-}
