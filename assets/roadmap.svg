@@ -1,40 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 270" width="1000" height="270" role="img" aria-label="Learning roadmap from HTML and CSS to databases">
-<defs></defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 236" width="1000" height="236" role="img" aria-label="Developer roadmap: foundations, development, full stack">
+<defs><linearGradient id="rg" x1="0" x2="1"><stop offset="0" stop-color="#5EEAD4"/><stop offset="1" stop-color="#A3E635" stop-opacity=".0"/></linearGradient></defs>
+<line x1="166.66666666666666" y1="30" x2="833.3333333333334" y2="30" stroke="#273449" stroke-width="2" stroke-dasharray="2 7" stroke-linecap="round"/>
 
-<rect x=".5" y=".5" width="999" height="269" rx="24" fill="#FAF6EE" stroke="#E0D3BE"/>
-<path d="M100 112 H900" stroke="#CBB594" stroke-width="3" stroke-dasharray="1 9" stroke-linecap="round" fill="none"/>
-<path d="M100 112 H420" stroke="#9A7653" stroke-width="3" stroke-linecap="round" fill="none" stroke-dasharray="320" stroke-dashoffset="320"><animate attributeName="stroke-dashoffset" values="320;0" dur="1.8s" begin=".3s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".3 .6 .2 1"/></path>
-<g><animateMotion dur="7s" repeatCount="indefinite" path="M100,112 H900" keyPoints="0;1" keyTimes="0;1" calcMode="linear"/>
-  <circle r="11" fill="#9A7653" opacity=".18"/><circle r="4.5" fill="#9A7653"/></g>
-<text x="100" y="64" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="2" fill="#A89A87">01</text>
-<circle cx="100" cy="112" r="17" fill="#2E2822"/><path d="M93 113 l5 5 l10 -11" stroke="#F4EDE1" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="100" y="174" text-anchor="middle" font-family="Georgia, 'Times New Roman', 'Noto Serif', serif" font-size="20" font-weight="700" fill="#2E2822">HTML &amp; CSS</text>
-<text x="100" y="196" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#A89A87">structure + style</text>
-<rect x="71.0" y="210" width="58" height="22" rx="11" fill="#2E2822"/><text x="100" y="225" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="700" letter-spacing="2" fill="#F4EDE1">DONE</text>
-<text x="260" y="64" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="2" fill="#A89A87">02</text>
-<circle cx="260" cy="112" r="17" fill="none" stroke="#9A7653" stroke-width="1.5"><animate attributeName="r" values="17;34" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="2.4s" repeatCount="indefinite"/></circle><circle cx="260" cy="112" r="17" fill="#FAF6EE" stroke="#9A7653" stroke-width="3"/><circle cx="260" cy="112" r="6" fill="#9A7653"><animate attributeName="r" values="6;8;6" dur="2.4s" repeatCount="indefinite"/></circle>
-<text x="260" y="174" text-anchor="middle" font-family="Georgia, 'Times New Roman', 'Noto Serif', serif" font-size="20" font-weight="700" fill="#2E2822">JavaScript</text>
-<text x="260" y="196" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#A89A87">logic + the DOM</text>
-<rect x="231.0" y="210" width="58" height="22" rx="11" fill="#9A7653"/><text x="260" y="225" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="700" letter-spacing="2" fill="#F4EDE1">NOW</text>
-<text x="420" y="64" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="2" fill="#A89A87">03</text>
-<circle cx="420" cy="112" r="17" fill="none" stroke="#9A7653" stroke-width="1.5"><animate attributeName="r" values="17;34" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="2.4s" repeatCount="indefinite"/></circle><circle cx="420" cy="112" r="17" fill="#FAF6EE" stroke="#9A7653" stroke-width="3"/><circle cx="420" cy="112" r="6" fill="#9A7653"><animate attributeName="r" values="6;8;6" dur="2.4s" repeatCount="indefinite"/></circle>
-<text x="420" y="174" text-anchor="middle" font-family="Georgia, 'Times New Roman', 'Noto Serif', serif" font-size="20" font-weight="700" fill="#2E2822">Git &amp; GitHub</text>
-<text x="420" y="196" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#A89A87">version control</text>
-<rect x="391.0" y="210" width="58" height="22" rx="11" fill="#9A7653"/><text x="420" y="225" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="700" letter-spacing="2" fill="#F4EDE1">NOW</text>
-<text x="580" y="64" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="2" fill="#A89A87">04</text>
-<circle cx="580" cy="112" r="17" fill="#FAF6EE" stroke="#CBB594" stroke-width="2" stroke-dasharray="3 4"/>
-<text x="580" y="174" text-anchor="middle" font-family="Georgia, 'Times New Roman', 'Noto Serif', serif" font-size="20" font-weight="700" fill="#6B5E50">React</text>
-<text x="580" y="196" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#A89A87">components + state</text>
-<rect x="551.0" y="210" width="58" height="22" rx="11" fill="none" stroke="#CBB594"/><text x="580" y="225" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="700" letter-spacing="2" fill="#6B5E50">NEXT</text>
-<text x="740" y="64" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="2" fill="#A89A87">05</text>
-<circle cx="740" cy="112" r="17" fill="#FAF6EE" stroke="#CBB594" stroke-width="2" stroke-dasharray="3 4"/>
-<text x="740" y="174" text-anchor="middle" font-family="Georgia, 'Times New Roman', 'Noto Serif', serif" font-size="20" font-weight="700" fill="#6B5E50">Node &amp; Express</text>
-<text x="740" y="196" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#A89A87">APIs + servers</text>
-<rect x="711.0" y="210" width="58" height="22" rx="11" fill="none" stroke="#CBB594"/><text x="740" y="225" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="700" letter-spacing="2" fill="#6B5E50">NEXT</text>
-<text x="900" y="64" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="2" fill="#A89A87">06</text>
-<circle cx="900" cy="112" r="17" fill="#FAF6EE" stroke="#CBB594" stroke-width="2" stroke-dasharray="3 4"/>
-<text x="900" y="174" text-anchor="middle" font-family="Georgia, 'Times New Roman', 'Noto Serif', serif" font-size="20" font-weight="700" fill="#6B5E50">Database</text>
-<text x="900" y="196" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#A89A87">SQL + deploy</text>
-<rect x="871.0" y="210" width="58" height="22" rx="11" fill="none" stroke="#CBB594"/><text x="900" y="225" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="700" letter-spacing="2" fill="#6B5E50">NEXT</text>
+<line x1="166.66666666666666" y1="38" x2="166.66666666666666" y2="62" stroke="#273449" stroke-width="2"/>
+<circle cx="166.66666666666666" cy="30" r="9" fill="#0B1020" stroke="#5EEAD4" stroke-width="2"/><circle cx="166.66666666666666" cy="30" r="3.5" fill="#5EEAD4"/>
+<rect x="24.7" y="62" width="284" height="162" rx="18" fill="#151F32" stroke="#273449"/>
+<rect x="46.7" y="63" width="240" height="2" rx="1" fill="url(#rg)"/>
+<text x="48.7" y="98" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="700" letter-spacing="3" fill="#5EEAD4">STAGE 01</text>
+<text x="48.7" y="130" font-family="Inter, 'SF Pro Display', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="800" letter-spacing="-.3" fill="#E8F0FF">FOUNDATIONS</text>
+<line x1="48.7" y1="148" x2="284.7" y2="148" stroke="#273449"/>
+<text x="48.7" y="177" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#E8F0FF">HTML  ·  CSS  ·  Python</text>
+<text x="48.7" y="203" font-family="Inter, 'SF Pro Display', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#94A3B8">Learn the building blocks.</text>
+
+<line x1="500.0" y1="38" x2="500.0" y2="62" stroke="#273449" stroke-width="2"/>
+<circle cx="500.0" cy="30" r="9" fill="#0B1020" stroke="#5EEAD4" stroke-width="2"/><circle cx="500.0" cy="30" r="3.5" fill="#5EEAD4"/>
+<rect x="358.0" y="62" width="284" height="162" rx="18" fill="#151F32" stroke="#273449"/>
+<rect x="380.0" y="63" width="240" height="2" rx="1" fill="url(#rg)"/>
+<text x="382.0" y="98" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="700" letter-spacing="3" fill="#5EEAD4">STAGE 02</text>
+<text x="382.0" y="130" font-family="Inter, 'SF Pro Display', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="800" letter-spacing="-.3" fill="#E8F0FF">DEVELOPMENT</text>
+<line x1="382.0" y1="148" x2="618.0" y2="148" stroke="#273449"/>
+<text x="382.0" y="177" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#E8F0FF">JavaScript  ·  Git  ·  GitHub</text>
+<text x="382.0" y="203" font-family="Inter, 'SF Pro Display', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#94A3B8">Make things interactive, and ship them.</text>
+
+<line x1="833.3333333333334" y1="38" x2="833.3333333333334" y2="62" stroke="#273449" stroke-width="2"/>
+<circle cx="833.3333333333334" cy="30" r="9" fill="#0B1020" stroke="#5EEAD4" stroke-width="2"/><circle cx="833.3333333333334" cy="30" r="3.5" fill="#5EEAD4"/>
+<rect x="691.3" y="62" width="284" height="162" rx="18" fill="#151F32" stroke="#273449"/>
+<rect x="713.3" y="63" width="240" height="2" rx="1" fill="url(#rg)"/>
+<text x="715.3" y="98" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="700" letter-spacing="3" fill="#5EEAD4">STAGE 03</text>
+<text x="715.3" y="130" font-family="Inter, 'SF Pro Display', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="800" letter-spacing="-.3" fill="#E8F0FF">FULL STACK</text>
+<line x1="715.3" y1="148" x2="951.3" y2="148" stroke="#273449"/>
+<text x="715.3" y="177" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#E8F0FF">React  ·  Node.js  ·  Databases</text>
+<text x="715.3" y="203" font-family="Inter, 'SF Pro Display', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#94A3B8">Connect front end, back end and data.</text>
 
 </svg>
