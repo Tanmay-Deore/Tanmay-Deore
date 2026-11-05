@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 84" width="1000" height="84" role="img" aria-label="Designed with curiosity. Built with consistency.">
-<defs></defs>
-
-<line x1="40" y1="30" x2="450" y2="30" stroke="#273449"/><line x1="550" y1="30" x2="960" y2="30" stroke="#273449"/>
-<path d="M500 22l8 8-8 8-8-8z" fill="none" stroke="#5EEAD4" stroke-width="1.5"/><circle cx="500" cy="30" r="2" fill="#A3E635"/>
-<rect x="190" y="46" width="620" height="30" rx="15" fill="#111827" stroke="#273449"/>
-<text x="500" y="66" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#94A3B8" letter-spacing=".5">Designed with curiosity. Built with consistency.</text>
-
-</svg>
