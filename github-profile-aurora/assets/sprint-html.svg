@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 160" width="300" height="160" role="img" aria-label="HTML card">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#5EEAD4"/><stop offset="1" stop-color="#A3E635" stop-opacity=".0"/></linearGradient></defs>
+
+<rect x=".5" y=".5" width="299" height="159" rx="20" fill="#151F32" stroke="#273449"/>
+<rect x="24" y="1" width="252" height="2" rx="1" fill="url(#g)" opacity=".9"/>
+<g transform="translate(28 30) scale(1.7500)"><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z" fill="#5EEAD4"/></g>
+<text x="272" y="46" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="700" letter-spacing="2" fill="#64748B">01</text>
+<text x="28" y="112" font-family="Inter, 'SF Pro Display', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" letter-spacing="-.5" fill="#E8F0FF">HTML</text>
+<text x="28" y="136" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#94A3B8">structure of the web</text>
+
+</svg>
