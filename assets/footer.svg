@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 84" width="1000" height="84" role="img" aria-label="Designed with curiosity. Built with consistency.">
+<defs><style>@media (prefers-reduced-motion: reduce){.a{display:none}}</style></defs>
+
+<line x1="40" y1="30" x2="450" y2="30" stroke="#273449"/><line x1="550" y1="30" x2="960" y2="30" stroke="#273449"/>
+<path d="M500 22l8 8-8 8-8-8z" fill="none" stroke="#5EEAD4" stroke-width="1.5"/><circle cx="500" cy="30" r="2" fill="#A3E635"/>
+<rect x="190" y="46" width="620" height="30" rx="15" fill="#111827" stroke="#273449"/>
+<text x="500" y="66" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#94A3B8" letter-spacing=".5">Designed with curiosity. Built with consistency.</text>
+<line class="a" x1="40" y1="30" x2="450" y2="30" stroke="#5EEAD4" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="30 380"><animate attributeName="stroke-dashoffset" values="30;-380" dur="5s" repeatCount="indefinite"/></line><line class="a" x1="550" y1="30" x2="960" y2="30" stroke="#5EEAD4" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="30 380"><animate attributeName="stroke-dashoffset" values="-380;30" dur="5s" repeatCount="indefinite"/></line><circle class="a" cx="500" cy="30" r="6" fill="none" stroke="#5EEAD4" stroke-width="1.5" opacity="0"><animate attributeName="r" values="6;18" dur="3.2s" begin="0.00s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="3.2s" begin="0.00s" repeatCount="indefinite"/></circle>
+</svg>
