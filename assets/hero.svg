@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="Tanmay_Deore, aspiring full-stack developer and first-year college student">
-<defs><style>.s{display:none}@media (prefers-reduced-motion: reduce){.a{display:none}.s{display:inline}}</style>
+<defs><style>.s{display:none}@media (prefers-reduced-motion: reduce){.a{display:none}.s{display:inline}}@media (prefers-reduced-motion: no-preference){.in{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}.d1{animation-delay:.1s}.d2{animation-delay:.25s}.d3{animation-delay:.45s}.d4{animation-delay:.6s}.d5{animation-delay:.8s}}@keyframes rise{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}</style>
 <linearGradient id="gl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5EEAD4"/><stop offset="1" stop-color="#A3E635"/></linearGradient>
 <radialGradient id="a1" cx=".86" cy=".05" r=".62"><stop offset="0" stop-color="#5EEAD4" stop-opacity=".22"/><stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/></radialGradient>
 <radialGradient id="a2" cx=".05" cy="1.05" r=".5"><stop offset="0" stop-color="#A3E635" stop-opacity=".08"/><stop offset="1" stop-color="#A3E635" stop-opacity="0"/></radialGradient>
@@ -17,20 +17,21 @@
   <path d="M440 240 C 570 176, 660 246, 770 160 S 930 60, 1040 22" fill="none" stroke="url(#rib)" stroke-width="1" opacity=".4"/>
   <circle cx="800" cy="178" r="3.5" fill="#5EEAD4"/><circle cx="800" cy="178" r="9" fill="none" stroke="#5EEAD4" stroke-opacity=".35"/>
   <circle cx="690" cy="233" r="2.5" fill="#A3E635" opacity=".9"/>
+<rect class="a" width="1000" height="280" fill="url(#a1)" opacity="0"><animate attributeName="opacity" values="0;.9;0" dur="10s" repeatCount="indefinite"/></rect><circle class="a" r="3.5" fill="#A3E635" opacity="0"><animateMotion dur="11s" repeatCount="indefinite" path="M470 262 C 600 196, 690 268, 800 178 S 950 84, 1040 52"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.9;1" dur="11s" repeatCount="indefinite"/></circle><circle class="a" cx="800" cy="178" r="9" fill="none" stroke="#5EEAD4" stroke-width="1.5" opacity="0"><animate attributeName="r" values="9;26" dur="3.4s" begin="0.00s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="3.4s" begin="0.00s" repeatCount="indefinite"/></circle>
 </g>
 <rect x=".5" y=".5" width="999" height="279" rx="24" fill="none" stroke="#273449"/>
 <path d="M30 54V30H54" fill="none" stroke="#5EEAD4" stroke-width="1.5" stroke-linecap="round" opacity=".8"/>
 <rect x="776" y="34" width="166" height="28" rx="14" fill="#151F32" stroke="#273449"/>
-<circle cx="796" cy="48" r="3.5" fill="#A3E635"/>
+<circle cx="796" cy="48" r="3.5" fill="#A3E635"/><circle class="a" cx="796" cy="48" r="3.5" fill="none" stroke="#A3E635" stroke-width="1.5" opacity="0"><animate attributeName="r" values="3.5;11" dur="2.8s" begin="0.00s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="2.8s" begin="0.00s" repeatCount="indefinite"/></circle>
 <text x="812" y="52.5" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#94A3B8">@Tanmay-Deore</text>
-<circle cx="62" cy="66" r="3" fill="#A3E635"/>
-<text x="76" y="70" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="700" letter-spacing="4" fill="#5EEAD4">DEVELOPER PORTFOLIO</text>
-<text x="52" y="136" font-family="Inter, 'SF Pro Display', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="66" font-weight="800" letter-spacing="-2" fill="#E8F0FF">Tanmay_Deore</text>
+<circle class="in d1" cx="62" cy="66" r="3" fill="#A3E635"/>
+<text class="in d1" x="76" y="70" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="700" letter-spacing="4" fill="#5EEAD4">DEVELOPER PORTFOLIO</text>
+<text class="in d2" x="52" y="136" font-family="Inter, 'SF Pro Display', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="66" font-weight="800" letter-spacing="-2" fill="#E8F0FF">Tanmay_Deore</text>
 <line class="a" x1="56" y1="156" x2="256" y2="156" stroke="url(#gl)" stroke-width="3" stroke-linecap="round" stroke-dasharray="200" stroke-dashoffset="200"><animate attributeName="stroke-dashoffset" values="200;0" keyTimes="0;1" calcMode="spline" keySplines=".25 .6 .2 1" dur="1.6s" begin=".4s" fill="freeze"/></line><line class="s" x1="56" y1="156" x2="256" y2="156" stroke="url(#gl)" stroke-width="3" stroke-linecap="round"/>
-<text x="56" y="190" font-family="Inter, 'SF Pro Display', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="600" fill="#E8F0FF">Aspiring Full-Stack Developer</text>
-<text x="56" y="213" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#94A3B8">First-year college student  ·  Maharashtra, India</text>
-<rect x="56.5" y="232.5" width="887" height="33" rx="9" fill="#0D1526" stroke="#273449"/>
-<text x="74" y="254" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" font-weight="700" fill="#A3E635">›</text>
+<text class="in d3" x="56" y="190" font-family="Inter, 'SF Pro Display', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="600" fill="#E8F0FF">Aspiring Full-Stack Developer</text>
+<text class="in d4" x="56" y="213" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#94A3B8">First-year college student  ·  Maharashtra, India</text>
+<rect class="in d5" x="56.5" y="232.5" width="887" height="33" rx="9" fill="#0D1526" stroke="#273449"/>
+<text class="in d5" x="74" y="254" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" font-weight="700" fill="#A3E635">›</text>
 <g class="a"><clipPath id="stripclip"><rect x="57" y="233" width="886" height="32" rx="9"/></clipPath>
 <text x="96" y="254" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#E8F0FF" textLength="378.0" opacity="0">Turning small ideas into working projects.<animate attributeName="opacity" calcMode="discrete" dur="21.64s" repeatCount="indefinite" keyTimes="0.000000;0.228743;1.000000" values="1;0;0"/></text>
 <text x="96" y="254" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#E8F0FF" textLength="387.0" opacity="0">Learning by building, one commit at a time.<animate attributeName="opacity" calcMode="discrete" dur="21.64s" repeatCount="indefinite" keyTimes="0.000000;0.246765;0.478743;1.000000" values="0;1;0;0"/></text>

@@ -36,7 +36,7 @@ My sandbox can only reach GitHub through git. Every other host answered with a p
 | Rendered in Chromium at GitHub's 830px width, light and dark page backgrounds | Done. Cards stay navy in both, text is readable. |
 | Typing animation frames at 0.8 s, 4.2 s and 9.5 s | Typing advances and loops. |
 | Reduced-motion mode (browser setting) | Hero shows the full first line, no typing, no moving parts. |
-| Maximum animation | Two things only: the hero typing line and a one-time underline draw-in. Nothing else moves. |
+| Motion | Slow and subtle: hero fade-up entrance, typing line, light sweeps, soft pulses, a flowing roadmap rail. All of it is decoration on top of a complete static design, and it is switched off by the browser's reduced-motion setting. |
 | Your details | Display name `Tanmay_Deore`, username `Tanmay-Deore`, email `tanmaydeore614@gmail.com`, LinkedIn `https://www.linkedin.com/in/tanmay-deore-309029408/` |
 | HTML, CSS, Python | All three show IN PROGRESS, with the 20-day target label. No percentages and no progress bar. |
 
